@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Volume</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world123!</string>
+    <string-array name="stream_types">
+        <item >Voice</item>
+        <item>Music</item><item>Ring</item><item>System</item>
+        <item >Notification</item>
+        <item >Alarm</item>
+        
+        <item >DTMF</item>
+        
+    </string-array>
+        
+        <string name="audioType">Audio Type</string>
+        
+        <string name="up">up</string>
+        
+        <string name="down">down</string>
+        
+        <string name="current_prompt">"Current : "</string>
+        
+        <string name="random_string">string</string>
+
+</resources>
